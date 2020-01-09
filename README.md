@@ -1,2 +1,2 @@
 # SVD-and-RNN
-Singular Value Decomposition and Recurrent Neural Networks on speech data
+Singular Value Decomposition on MNIST and Recurrent Neural Networks on speech data
